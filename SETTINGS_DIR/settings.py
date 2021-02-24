@@ -45,7 +45,7 @@ MIDDLEWARE = [
     'whitenoise.middleware.WhiteNoiseMiddleware'
 ]
 
-ROOT_URLCONF = 'PRJECT_NAME_settings.urls'
+ROOT_URLCONF = 'PROJECT_NAME_settings.urls'
 
 TEMPLATES = [
     {
