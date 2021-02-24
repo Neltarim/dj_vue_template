@@ -22,7 +22,7 @@ if DEBUG:
 # Application definition
 
 INSTALLED_APPS = [
-    'APP_NAME.apps.UPPER_NAME_APPConfig',
+    'APP_NAME.apps.UPPER_NAMEAPPConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
